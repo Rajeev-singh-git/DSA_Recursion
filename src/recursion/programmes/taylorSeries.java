@@ -6,7 +6,7 @@ public class taylorSeries {
 
     public static void main(String[] args) {
 
-        System.out.println(taylor(4, 15));
+        System.out.println(taylor(2, 10));
 
 
     }
